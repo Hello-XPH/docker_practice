@@ -4,6 +4,7 @@
 
 ```bash
 $ docker image rm [选项] <镜像1> [<镜像2> ...]
+$ docker image rmi [选项] <镜像1> [<镜像2> ...]
 ```
 
 ## 用 ID、镜像名、摘要删除镜像
